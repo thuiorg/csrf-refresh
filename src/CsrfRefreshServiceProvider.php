@@ -1,6 +1,6 @@
 <?php
 
-namespace Brunoabpinto\CsrfRefresh;
+namespace thuiorg\CsrfRefresh;
 
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\Facades\File;
