@@ -1,5 +1,5 @@
 {
-    "name": "thuiorg/csrf-refresh",
+    "name": "brunoabpinto/csrf-refresh",
     "description": "Automatic CSRF token refresh for Laravel applications to prevent token expiration on long-lived pages",
     "type": "library",
     "license": "MIT",
